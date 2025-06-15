@@ -1,2 +1,2 @@
-# pingcpp
-Ping util in C++
+# ping
+Реализация утилиты ping на C++
