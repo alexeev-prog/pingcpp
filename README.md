@@ -1,2 +1,2 @@
 # ping
-Реализация утилиты ping на C++
+`ping` writen in C++
