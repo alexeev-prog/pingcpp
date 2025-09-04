@@ -1,3 +1,9 @@
+commit 25548817173a55d06d08cfb375007123cf5e341d
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Thu Jul 31 22:43:52 2025 +0700
+
+    add shell.nix
+
 commit e116dc8542e50ee4f7f99192f28a2a4a6830e4d8
 Author: Alexeev Bronislav <alexeev.dev@mail.ru>
 Date:   Thu Jul 17 00:50:19 2025 +0700
